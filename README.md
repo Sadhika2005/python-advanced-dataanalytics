@@ -1,10 +1,10 @@
-Python Fundamentals Practice Project
+PYTHON FUNDAMENTALS PRACTICE PROJECT:
 
 This repository contains foundational Python programs developed to strengthen core programming concepts such as input/output handling, conditional statements, loops, file operations, and working with Excel files.
 
-The project is designed to provide practical implementation experience for academic learning and technical interview preparation.
+The project is designed to provide practical implementation experience for academic learning and technical interview prepa
 
-Project Structure
+PROJECT STRUCTURE:
 .
 ├── atm.py            # ATM simulation (PIN verification, withdrawal, balance enquiry)
 ├── filehandle.py     # Basic file handling operations (read/write)
@@ -15,11 +15,11 @@ Project Structure
 ├── sheet1.xlsx       # Sample Excel file used in programs
 └── README.md         # Project documentation
 
-Requirements
+REQUIREMENTS:
 
 Python 3.x
 
-Optional libraries (for Excel-related programs):
+Optional Libraries (for Excel-related programs)
 
 openpyxl
 
@@ -29,20 +29,14 @@ Check your Python version:
 
 python --version
 
-How to Run the Programs
-
+HOW TO RUN THE PROGRAMS:
 Clone the repository:
-
 git clone <repository-url>
 
-
 Navigate to the project directory:
-
 cd python-basics-practice
 
-
 Run a Python file:
-
 python atm.py
 
 
@@ -50,7 +44,7 @@ Example:
 
 python salary15.py
 
-Program Overview
+PROGRAM OVERVIEW:
 
 atm.py – Simulates ATM functionality using conditional statements
 
@@ -64,7 +58,7 @@ helloname.py – Accepts user input and prints a formatted greeting
 
 printstat.py – Contains basic print statement practice examples
 
-Purpose
+PURPOSE:
 
 This project is intended for:
 
@@ -76,7 +70,9 @@ Placement and interview preparation
 
 Building a structured beginner-level coding portfolio
 
-Author
+AUTHOR:
 
 Sadhika Saji
-B.Tech Student|python learner
+Btech Student|Python Learner
+B.Tech Student | Python Learner
+
