@@ -1,60 +1,82 @@
-# Python Basics Practice Project
+Python Fundamentals Practice Project
 
-This repository contains beginner-level Python programs created to practice basic programming concepts such as input/output, conditionals, loops, file handling, and working with Excel files.
+This repository contains foundational Python programs developed to strengthen core programming concepts such as input/output handling, conditional statements, loops, file operations, and working with Excel files.
 
-## Project Structure
+The project is designed to provide practical implementation experience for academic learning and technical interview preparation.
 
+Project Structure
 .
-├── atm.py            # Simple ATM simulation (PIN verification, withdraw, enquiry)
-├── filehandle.py     # Basic file handling operations
-├── filehandle2.py    # Extended file handling example
-├── helloname.py      # Prints greeting with user name
-├── printstat.py      # Simple print statement practice
-├── salary15.py       # Checks if salary is greater than 15000
+├── atm.py            # ATM simulation (PIN verification, withdrawal, balance enquiry)
+├── filehandle.py     # Basic file handling operations (read/write)
+├── filehandle2.py    # Extended file handling examples
+├── helloname.py      # Prints a greeting using user input
+├── printstat.py      # Basic print statement exercises
+├── salary15.py       # Validates if salary is greater than 15000
 ├── sheet1.xlsx       # Sample Excel file used in programs
-└── README.md
+└── README.md         # Project documentation
 
-## Requirements
+Requirements
 
-- Python 3.x  
-- Optional libraries (if used with Excel files):
-  - openpyxl
-  - pandas
+Python 3.x
 
-Check Python version:
+Optional libraries (for Excel-related programs):
+
+openpyxl
+
+pandas
+
+Check your Python version:
+
 python --version
 
-## How to Run the Programs
+How to Run the Programs
 
-1. Clone the repository:
+Clone the repository:
+
 git clone <repository-url>
 
-2. Navigate to the project directory:
+
+Navigate to the project directory:
+
 cd python-basics-practice
 
-3. Run a Python file:
+
+Run a Python file:
+
 python atm.py
 
+
 Example:
+
 python salary15.py
 
-## Program Overview
+Program Overview
 
-- atm.py – Simulates ATM functionality using conditional statements  
-- salary15.py – Validates employee salary condition (>15000)  
-- filehandle.py – Demonstrates basic file read/write operations  
-- filehandle2.py – Shows advanced file handling concepts  
-- helloname.py – Takes user input and prints a greeting  
-- printstat.py – Basic print statement examples  
+atm.py – Simulates ATM functionality using conditional statements
 
-## Purpose
+salary15.py – Checks whether an employee's salary exceeds 15000
 
-This project is designed for:
-- Python beginners  
-- College practical practice  
-- Placement preparation  
+filehandle.py – Demonstrates basic file read/write operations
 
-## Author
+filehandle2.py – Shows extended file handling concepts
 
-Sadhika Saji  
-B.Tech Student | Python Learner
+helloname.py – Accepts user input and prints a formatted greeting
+
+printstat.py – Contains basic print statement practice examples
+
+Purpose
+
+This project is intended for:
+
+Strengthening Python fundamentals
+
+Academic laboratory practice
+
+Placement and interview preparation
+
+Building a structured beginner-level coding portfolio
+
+Author
+
+Sadhika Saji
+B.Tech Student|python learner
